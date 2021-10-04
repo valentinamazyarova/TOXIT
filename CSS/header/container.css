@@ -1,0 +1,7 @@
+.container {
+    display: inline-grid;
+    grid-template-columns: repeat(7, 1fr);
+    margin:26px 447px auto ;
+   
+
+}
